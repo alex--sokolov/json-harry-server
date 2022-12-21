@@ -23,7 +23,7 @@
       "actor": "Daniel Radcliffe",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/harry.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/harry.webp"
     },
     {
       "name": "Hermione Granger",
@@ -48,7 +48,7 @@
       "actor": "Emma Watson",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/hermione.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/hermione.webp"
     },
     {
       "name": "Ron Weasley",
@@ -75,7 +75,7 @@
       "actor": "Rupert Grint",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/ron.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/ron.webp"
     },
     {
       "name": "Draco Malfoy",
@@ -100,7 +100,7 @@
       "actor": "Tom Felton",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/draco.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/draco.webp"
     },
     {
       "name": "Minerva McGonagall",
@@ -125,7 +125,7 @@
       "actor": "Dame Maggie Smith",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/mcgonagall.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/mcgonagall.webp"
     },
     {
       "name": "Cedric Diggory",
@@ -150,7 +150,7 @@
       "actor": "Robert Pattinson",
       "alternate_actors": [],
       "alive": false,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/cedric.png"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/cedric.webp"
     },
     {
       "name": "Cho Chang",
@@ -175,7 +175,7 @@
       "actor": "Katie Leung",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/cho.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/cho.webp"
     },
     {
       "name": "Severus Snape",
@@ -202,7 +202,7 @@
       "actor": "Alan Rickman",
       "alternate_actors": [],
       "alive": false,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/snape.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/snape.webp"
     },
     {
       "name": "Rubeus Hagrid",
@@ -227,7 +227,7 @@
       "actor": "Robbie Coltrane",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/hagrid.png"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/hagrid.webp"
     },
     {
       "name": "Neville Longbottom",
@@ -252,7 +252,7 @@
       "actor": "Matthew Lewis",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/neville.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/neville.webp"
     },
     {
       "name": "Luna Lovegood",
@@ -277,7 +277,7 @@
       "actor": "Evanna Lynch",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/luna.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/luna.webp"
     },
     {
       "name": "Ginny Weasley",
@@ -302,7 +302,7 @@
       "actor": "Bonnie Wright",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/ginny.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/ginny.webp"
     },
     {
       "name": "Sirius Black",
@@ -333,7 +333,7 @@
         "Rohan Gotobed"
       ],
       "alive": false,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/sirius.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/sirius.webp"
     },
     {
       "name": "Remus Lupin",
@@ -362,7 +362,7 @@
       "actor": "David Thewlis",
       "alternate_actors": [],
       "alive": false,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/lupin.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/lupin.webp"
     },
     {
       "name": "Arthur Weasley",
@@ -387,7 +387,7 @@
       "actor": "Mark Williams",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/arthur.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/arthur.webp"
     },
     {
       "name": "Bellatrix Lestrange",
@@ -414,7 +414,7 @@
       "actor": "Helena Bonham Carter",
       "alternate_actors": [],
       "alive": false,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/bellatrix.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/bellatrix.webp"
     },
     {
       "name": "Lord Voldemort",
@@ -441,7 +441,7 @@
       "actor": "Ralph Fiennes",
       "alternate_actors": [],
       "alive": false,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/voldemort.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/voldemort.webp"
     },
     {
       "name": "Horace Slughorn",
@@ -466,7 +466,7 @@
       "actor": "Jim Broadbent",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/slughorn.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/slughorn.webp"
     },
     {
       "name": "Kingsley Shacklebolt",
@@ -491,7 +491,7 @@
       "actor": "George Harris",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/kingsley.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/kingsley.webp"
     },
     {
       "name": "Dolores Umbridge",
@@ -516,7 +516,7 @@
       "actor": "Imelda Staunton",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/umbridge.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/umbridge.webp"
     },
     {
       "name": "Lucius Malfoy",
@@ -541,7 +541,7 @@
       "actor": "Jason Isaacs",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/lucius.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/lucius.webp"
     },
     {
       "name": "Vincent Crabbe",
@@ -566,7 +566,7 @@
       "actor": "Jamie Waylett",
       "alternate_actors": [],
       "alive": false,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/crabbe.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/crabbe.webp"
     },
     {
       "name": "Gregory Goyle",
@@ -591,7 +591,7 @@
       "actor": "Josh Herdman",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/goyle.jpg"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/goyle.webp"
     },
     {
       "name": "Mrs Norris",
@@ -616,7 +616,7 @@
       "actor": "Maxime, Alanis and Tommy the cats",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/norris.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/norris.webp"
     },
     {
       "name": "Argus Filch",
@@ -641,7 +641,7 @@
       "actor": "David Bradley",
       "alternate_actors": [],
       "alive": true,
-      "image": "https://alex-sokolov-react-custom-app-state.netlify.app/images/filch.webp"
+      "image": "https://alex-sokolov-react-redux.netlify.app/images/filch.webp"
     },
     {
       "name": "Vernon Dursley",
